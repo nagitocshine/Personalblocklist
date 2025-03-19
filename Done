@@ -1,0 +1,9 @@
+0.0.0.0 akamai.net
+0.0.0.0 ls.apple.com
+0.0.0.0 dscapi9.akamai.net
+0.0.0.0 inappcheck.itunes.apple.com
+0.0.0.0 buy.itunes-apple.com.akadns.net
+0.0.0.0 *-*-ssl.ls.apple.com
+0.0.0.0 *-*.ls.apple.com
+0.0.0.0 *-ssl.ls.apple.com
+0.0.0.0 bag.itunes.apple.com
