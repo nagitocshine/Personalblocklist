@@ -1,0 +1,8 @@
+0.0.0.0 gsa.apple.com
+0.0.0.0 ocsp2.apple.com
+0.0.0.0 ocsp.apple.com
+0.0.0.0 ocsp*-*.apple.com
+0.0.0.0 ocsp-*-.apple.com
+0.0.0.0 pba.apple.com
+0.0.0.0 pba.v.aaplimg.com
+0.0.0.0 pancake.apple.com
