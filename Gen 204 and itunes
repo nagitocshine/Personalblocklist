@@ -1,0 +1,13 @@
+0.0.0.0 client-api.itunes.apple.com
+0.0.0.0 bag.itunes.apple.com
+||i.ytimg.com/gen_204
+||i.ytimg.com/generate_204
+||youtube.com/gen_204
+||youtube.com/generate_204
+0.0.0.0 init.itunes.apple.com
+0.0.0.0 entitlements.itunes.apple.com
+0.0.0.0 buy.itunes.apple.com
+0.0.0.0 caldav.fe2.apple-dns.net
+0.0.0.0 *.apple-dns.net
+0.0.0.0 h3.apis.apple.map.fastly.net
+
