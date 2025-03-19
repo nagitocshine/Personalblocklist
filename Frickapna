@@ -1,0 +1,4 @@
+0.0.0.0 resolver.arpa^$important
+0.0.0.0 resolver.arpa
+||resolver.arpa^$important
+||resolver.arpa
