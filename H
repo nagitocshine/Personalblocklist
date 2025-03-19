@@ -1,0 +1,5 @@
+0.0.0.0 uspto.report
+0.0.0.0 ajax.cloudflare.com
+0.0.0.0 ssl.ls.apple.com
+||akadns.net^$important
+||ls.apple.com^$important
