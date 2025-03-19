@@ -1,0 +1,5 @@
+||com.akadns.net^$important
+||sentry.io^$important
+||ampproject.org^$important
+||uspto.report^$important
+||ampproject.org^$important
