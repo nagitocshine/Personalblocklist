@@ -1,0 +1,23 @@
+0.0.0.0 gateway.fe2.apple-dns.net
+0.0.0.0 news-edge.fe2.apple-dns.net
+0.0.0.0 mask.apple-dns.net
+0.0.0.0 doh.dns.apple.com.v.aaplimg.com
+0.0.0.0 doh.dns.apple.com
+0.0.0.0 *.apple-dns.net
+0.0.0.0 gateway-*-.apple-dns.net
+0.0.0.0 gateway*-*.apple-dns.net
+0.0.0.0 apple-dns.net
+0.0.0.0 amp-api.apps.apple.com
+0.0.0.0 h3.apis.apple.map.fastly.net
+0.0.0.0 apple.map.fastly.net
+0.0.0.0 auditrecording-pa.googleapis.com
+0.0.0.0 auditrecording.googleapis.com
+0.0.0.0 firebaselogging.googleapis.com
+0.0.0.0 firebaseremoteconfig.googleapis.com
+0.0.0.0 dscapi9.akamai.net
+0.0.0.0 firebaselogging-pa.googleapis.com
+0.0.0.0 mobile-api.adguard.org
+0.0.0.0 api.adguard.org
+0.0.0.0 firebaseappcheck.googleapis.com
+0.0.0.0 donecanteditthos.com
+
