@@ -1,0 +1,8 @@
+0.0.0.0 amp-api.apps.apple.com
+0.0.0.0 gateway.fe2.apple-dns.net
+0.0.0.0 gateway.*.apple-dns.net
+0.0.0.0 apple-dns.net
+0.0.0.0 fe2.apple-dns.net
+0.0.0.0 id.google.com
+0.0.0.0 www.coolmathgames.com
+||coolmathgames.com^$important
